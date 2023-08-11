@@ -1,0 +1,4 @@
+name: FnafPlugin
+version: '${project.version}'
+main: pt.bonnie20402.fnafplugin.FnafPlugin
+api-version: '1.19'
